@@ -1,16 +1,14 @@
-body{
+.cabecalho{
      background-color:purple;
 }
-h1{
+.cabecalho-titulo{
     color:black;
+     
+     
 }
-p{
-    color:white;
-     .cabecalho {
-
-background-color: blue;
-
-color: white;
-
-
+.cabecalho-item{
+    color:blue;
 }
+
+
+
