@@ -1,4 +1,10 @@
+:root {
+--cor-de-fundo: #f5e8d8;
+}
+body {
+    background-color: var(--cor-de-fundo);}
 .cabecalho{
+  
      background-color:purple;
   display: flex;
   justify-content:space-around;
