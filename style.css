@@ -3,22 +3,12 @@
 }
 body {
     background-color: var(--cor-de-fundo);}
-.cabecalho{
   
-     background-color:purple;
-  display: flex;
-  justify-content:space-around;
-}
-.cabecalho-titulo{
-    color:black;
+    
+ 
+ 
      
      
-}
-.cabecalho-item{
-    color:blue;
 
-}
-
-.escola{
-display: flex;}
+  
 
